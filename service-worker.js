@@ -1,4 +1,4 @@
-const CACHE_NAME = "swayambhar-sathi-pwa-v1";
+const CACHE_NAME = "swayambhar-sathi-pwa-v2";
 
 const APP_FILES = [
     "./",
