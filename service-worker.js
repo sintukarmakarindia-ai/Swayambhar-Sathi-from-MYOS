@@ -1,5 +1,5 @@
 // Version update kora hoyeche (v2). Vobissote update korle eta v3, v4 korben.
-const CACHE_NAME = "swayambhar-sathi-pwa-v2";
+const CACHE_NAME = "swayambhar-sathi-pwa-v3";
 
 const APP_FILES = [
     "./",
